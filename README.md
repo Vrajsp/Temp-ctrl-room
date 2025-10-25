@@ -45,22 +45,6 @@ Keep your room comfortable, monitor temperature & humidity in style, and get ins
 
 ---
 
-## Visual Elements
-
-- **Fan Animation**
-![Fan GIF](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)
-
-- **Degree Symbol (°C)**
-![°C Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Degree_sign.svg/120px-Degree_sign.svg.png)
-
-- **Thermometer Bar Highlight**
-![Thermometer GIF](https://media.giphy.com/media/3o7TKx8L3m1k0Nq6e0/giphy.gif)
-
-- **Alert Highlight**
-![Alert GIF](https://media.giphy.com/media/l0HlA6vQZt9hklOiI/giphy.gif)
-
----
-
 ## Logs & Debug
 Arduino outputs logs to Serial Monitor:  
 
@@ -86,15 +70,6 @@ Alert: None
 
 ## credits
 
-Developed by **Viraj Sharad Patil**
+Developed by **Viraj Patil**
 GitHub: [https://github.com/Vrajsp](https://github.com/Vrajsp)
 LinkedIn: [https://www.linkedin.com/in/viraj-sp](https://www.linkedin.com/in/viraj-sp)
-
-
-
-
-
-I can also **make a “super animated” README version** with **sliding banners, multiple GIFs in sequence, and mini charts** like a real dashboard if you want it to look next-level on GitHub.  
-
-Do you want me to do that?
-```
